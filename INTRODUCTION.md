@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Vidhi-04
+- 👀 I’m interested in Coding, Dancing, Singing, Acting
+- 🌱 I’m currently learning Python, HTML, CSS, Javascript
